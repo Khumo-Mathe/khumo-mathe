@@ -49,11 +49,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-![Khumo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khumomathe&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khumomathe&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with Me
