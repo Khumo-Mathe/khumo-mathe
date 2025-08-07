@@ -1,0 +1,69 @@
+# 👋 Hey, I'm Khumo Mathe
+
+🎓 **IT Graduate** | 🧠 Curious Problem Solver | 💻 **Backend & Infrastructure Engineer**  
+🔭 Currently building **[Gelezaa](#)** — an EdTech platform connecting learners with vetted tutors  
+🌍 Based in South Africa  
+🧪 I blend **tech, storage systems, and mathematics** to solve real-world problems
+
+---
+
+## 🔧 What I'm Working On
+
+- 🚀 Building the backend for **Gelezaa** using Django
+- 💾 Exploring **enterprise storage**:  
+  - VMware vSphere, ESXi, vCenter  
+  - SAN/NAS concepts & storage protocols  
+  - NetApp ONTAP & storage automation  
+- ☁️ Cloud Infrastructure (Microsoft Azure, SCCM)
+- 🔢 Applying **quantitative thinking** in IT architecture and backend design
+- 📘 Preparing to deepen skills in **quant trading & systems design**
+
+---
+
+## 🧰 Tech & Tools I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 🧠 Academic + Mathematical Background
+
+🎓 **BSc Mathematics & Computer Science**  
+📌 Modules included:  
+- Linear Algebra, Calculus, Numerical Analysis  
+- Financial Mathematics, Computational Modelling  
+- Artificial Intelligence, Networks, OS, Data Structures  
+
+✍️ I apply my math background in:  
+- 📈 System modeling & simulation  
+- ⚙️ Backend design thinking  
+- 📊 Interest in **quantitative trading systems** & smart automation
+
+---
+
+## 📊 GitHub Stats
+
+![Khumo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khumomathe&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khumomathe&layout=compact)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-khumo@email.com-informational)](mailto:khumo@email.com)
+
+---
+
+## 🔥 Quote I Live By
+
+> “You don’t rise to the level of your goals. You fall to the level of your systems.” — James Clear
+
