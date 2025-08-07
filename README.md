@@ -49,11 +49,6 @@
 
 ---
 
-## 📊 GitHub Streak
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khumomathe&theme=default)])
 
 
 
