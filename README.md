@@ -51,9 +51,7 @@
 
 ## 📊 GitHub Streak
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khumomathe&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khumo-mathe&theme=default)](https://git.io/streak-stats)
 
 
 ## 📫 Connect with Me
