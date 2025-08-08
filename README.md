@@ -58,7 +58,9 @@
 ---
 
 ## 🐍 Watch my contributions get eaten
-![snake gif](https://github.com/khumo-mathe/khumo-mathe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](
+https://raw.githubusercontent.com/khumomathe/khumomathe/output/github-contribution-grid-snake.svg
+)
 
 
 
