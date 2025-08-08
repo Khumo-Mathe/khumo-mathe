@@ -57,8 +57,9 @@
 
 ---
 
- ## 📊 Contribution Graph
-[![Khumo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khumomathe&theme=react-dark&hide_border=true&area=true)](https://github.com/khumo-mathe/github-readme-activity-graph)
+## 🐍 Watch my contributions get eaten
+![snake gif](https://github.com/khumomathe/khumomathe/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
