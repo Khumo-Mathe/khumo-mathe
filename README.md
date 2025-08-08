@@ -49,15 +49,7 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=khumomathe&label=Profile+Views&color=blue)  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Backend+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khumomathe&theme=tokyonight)](https://git.io/streak-stats)
-
-
----
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khumo-mathe-44327a258/)
@@ -65,7 +57,9 @@
 
 ---
 
-## 🔥 Quote I Live By
+![Visitor Badge](https://komarev.com/ghpvc/?username=khumomathe&label=Profile+Views&color=blue)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Backend+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
 
-> “You don’t rise to the level of your goals. You fall to the level of your systems.” — James Clear
+## 🔥 GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=khumomathe&theme=tokyonight)](https://git.io/streak-stats)
