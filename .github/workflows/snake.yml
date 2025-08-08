@@ -15,7 +15,7 @@ jobs:
       - name: Generate the snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: khumomathe
+          github_user_name: Khumo-Mathe
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake.svg to output branch
