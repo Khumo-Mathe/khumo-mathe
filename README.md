@@ -57,6 +57,12 @@
 
 ---
 
+## 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khumo-Mathe&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khumo-Mathe&layout=compact&theme=dark)
+
 ## 🐍 Watch my contributions get eaten
 ![snake gif](
 https://raw.githubusercontent.com/khumomathe/khumomathe/output/github-contribution-grid-snake.svg
