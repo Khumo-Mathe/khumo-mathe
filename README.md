@@ -65,7 +65,7 @@
 
 ## 🐍 Watch my contributions get eaten
 ![snake gif](
-https://raw.githubusercontent.com/khumomathe/khumomathe/output/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/Khumo-Mathe/Khumo-Mathe/output/github-contribution-grid-snake.svg
 )
 
 
