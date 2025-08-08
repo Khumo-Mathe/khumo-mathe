@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Khumo Mathe     ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Backend+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
+# 👋 Hey, I'm Khumo Mathe     ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&lines=Backend+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
 
 🎓 **IT Graduate** | 🧠 Curious Problem Solver | 💻 **Backend & Infrastructure Engineer**  
 🔭 Currently building **[Gelezaa](#)** — an EdTech platform connecting learners with vetted tutors  
@@ -58,7 +58,7 @@
 ---
 
  ## 📊 Contribution Graph
-[![Khumo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khumomathe&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khumo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khumomathe&theme=react-dark&hide_border=true&area=true)](https://github.com/khumo-mathe/github-readme-activity-graph)
 
 
 ---
