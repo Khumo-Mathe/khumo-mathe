@@ -49,9 +49,9 @@
 
 ---
 
+![Khumo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khumomathe&show_icons=true&theme=default)
 
-
-
+---
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khumo-mathe-44327a258/)
