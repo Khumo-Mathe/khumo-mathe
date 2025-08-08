@@ -54,7 +54,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge)](https://www.linkedin.com/in/khumo-mathe-44327a258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khumo-mathe-44327a258/)
 [![Email](https://img.shields.io/badge/Email-khumo@email.com-informational)](mailto:khumo@email.com)
 
 ---
