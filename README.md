@@ -49,7 +49,13 @@
 
 ---
 
-![Khumo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khumomathe&show_icons=true&theme=default)
+![Visitor Badge](https://komarev.com/ghpvc/?username=khumomathe&label=Profile+Views&color=blue)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Backend+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khumomathe&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 ## 📫 Connect with Me
