@@ -47,13 +47,6 @@
 - ⚙️ Backend design thinking  
 - 📊 Interest in **quantitative trading systems** & smart automation
 
----
-
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khumo-mathe-44327a258/)
-[![Email](https://img.shields.io/badge/Email-khumo@email.com-informational)](mailto:khumo@email.com)
 
 ---
 
