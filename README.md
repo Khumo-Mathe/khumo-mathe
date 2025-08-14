@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Khumo Mathe     ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&lines=Software+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
 
-🎓 **IT Graduate** | 🧠 Curious Problem Solver | 💻 **Software & Infrastructure Engineer**  
+🎓 **Mathematical Science Graduate** | 🧠 Curious Problem Solver | 💻 **Software & Infrastructure Engineer**  
 🔭 Currently building **[Gelezaa](#)** — an EdTech platform connecting learners with vetted tutors  
 🌍 Based in South Africa  
 🧪 I blend **tech, storage systems, and mathematics** to solve real-world problems
