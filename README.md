@@ -9,7 +9,6 @@
 
 ## 🔧 What I'm Working On
 
-- 🚀 Building the backend for **Gelezaa** using Django
 - 💾 Exploring **enterprise storage**:  
   - VMware vSphere, ESXi, vCenter  
   - SAN/NAS concepts & storage protocols  
