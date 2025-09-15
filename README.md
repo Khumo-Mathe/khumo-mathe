@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Khumo Mathe     ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&lines=Software+Developer+%7C+Storage+Engineer+%7C+Mathematician;Always+Learning+Something+New...)
 
 🎓 **Mathematical Science Graduate** | 🧠 Problem Solver | 💻 **Software & Infrastructure Engineer**  
-🔭 Currently building **[Gelezaa](#)** — an EdTech platform connecting Students with vetted tutors  
-🌍 Based in South Africa  
-🧪 I blend **tech, storage systems, and mathematics** to solve real-world problems
 
 ---
 
@@ -27,10 +24,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,azure,linux,github,git,vscode,django" 
        alt="Cre4T3Tiv3 skill icons" /></a>
-
----
-
-
 
 
 
