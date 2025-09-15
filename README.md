@@ -30,18 +30,8 @@
 
 ---
 
-## 🧠 Academic + Mathematical Background
 
-🎓 **BSc Mathematics & Computer Science**  
-📌 Modules included:  
-- Linear Algebra, Calculus, Numerical Analysis  
-- Financial Mathematics, Computational Modelling  
-- Artificial Intelligence, Networks, OS, Data Structures  
 
-✍️ I apply my math background in:  
-- 📈 System modeling & simulation  
-- ⚙️ Backend design thinking  
-- 📊 Interest in **quantitative trading systems** & smart automation
 
 
 ---
