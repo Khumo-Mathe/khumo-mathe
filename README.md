@@ -2,17 +2,6 @@
 
 🎓 **Mathematical Science Graduate** | 🧠 Problem Solver | 💻 **Software & Infrastructure Engineer**  
 
----
-
-## 🔧 What I'm Working On
-
-- 💾 Exploring **enterprise storage**:  
-  - VMware vSphere, ESXi, vCenter  
-  - SAN/NAS concepts & storage protocols  
-  - NetApp ONTAP & storage automation  
-- ☁️ Cloud Infrastructure (Microsoft Azure, SCCM)
-- 🔢 Applying **quantitative thinking** in IT architecture and backend design
-- 📘 Preparing to deepen skills in **quant trading & systems design**
 
 ---
 
